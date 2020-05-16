@@ -8,7 +8,7 @@
   Required Arduino Libraries
   --------------------------
   Adafruit NeoPixel: https://github.com/adafruit/Adafruit_NeoPixel
-  DS1307: https://github.com/watterott/mSD-Shield/tree/master/src/libraries/DS1307
+  DS1307: https://github.com/watterott/Arduino-Libs/tree/master/DS1307
   
   Serial Commands (57600 Baud 8N1)
   --------------------------------
